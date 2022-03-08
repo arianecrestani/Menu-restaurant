@@ -73,18 +73,20 @@ body {
 .menu {
   padding: 5rem 0;
 }
+
 .section-center {
-  width: 90vw;
   margin: 0 auto;
   max-width: 1170px;
-  display: grid;
-  gap: 3rem 2rem;
+  display: flex;
+  gap: 10rem;
   justify-items: center;
+  flex-wrap: wrap;
 }
 .menu-item {
-  display: grid;
-  gap: 1rem 2rem;
+  display: flex;
+  gap: 1rem 19rem;
   max-width: 25rem;
+  flex-direction: column;
 }
 .photo {
   object-fit: cover;
