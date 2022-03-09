@@ -5,7 +5,7 @@
 
 - Menu of restaurant with sidebar 
 
-### Preview
+### Preview.
 
 ![](./Screenshot.png)
 
