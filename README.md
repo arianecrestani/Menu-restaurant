@@ -15,7 +15,7 @@ https://arianecrestani.github.io/Menu-restaurant/
 #### Built with
 
 
-- objetos
+- object
 - document.querySelector()
 - addEventListener()
 - classList.toggle()
